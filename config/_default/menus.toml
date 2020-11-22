@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  url = "#crossroad"
+  name = "Research"
+  url = "#projects"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publications"
   weight = 40
 
 [[main]]
