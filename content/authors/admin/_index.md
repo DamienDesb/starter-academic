@@ -1,25 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Damien Desbruyères
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researche in Physical Oceanography
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: IFREMER
+  url: "https://wwz.ifremer.fr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Ocean's role in Climate
+- Global ocean observing networks
+- North Atlantic circulation
 
 education:
   courses:
@@ -69,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Damien Desbruyères currently works at the Laboratory of Physical and Spatial Oceanogrpahy, within the Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER). Damien does research in dynamical and descriptive physical Oceanography, with an observational focus on the mechanisms shaping the large-scale circulation and heat content of the North Atlantic Ocean.
