@@ -34,15 +34,19 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  
 # - icon: twitter
 # icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6E9uP2FqlKpd7nN1HS3Z-p75YqaLlKr8LfqK7cJ2qgv-WwAU2r4QUmlUAGx0TS1v7Fjn-oFz5rbVNp3HChID2jM5sWDQ&user=xoAWTQMAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/DamienDesb
+  
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/DamienDesb
+  
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Damien_Desbruyeres
