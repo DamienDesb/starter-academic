@@ -6,7 +6,7 @@ title: Damien Desbruyères
 superuser: true
 
 # Role/position
-role: Researche in Physical Oceanography
+role: Researcher in Physical Oceanography
 
 # Organizations/Affiliations
 organizations:
@@ -17,8 +17,9 @@ organizations:
 
 interests:
 - Ocean's role in Climate
-- Global ocean observing networks
-- North Atlantic circulation
+- Ocean heat uptake
+- North Atlantic dynamics
+- Global ocean observing systems
 
 education:
   courses:
