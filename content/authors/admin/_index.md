@@ -22,7 +22,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Physicalp Oceanogrpahy
+  - course: PhD in Physical Oceanogrpahy
     institution: Université de Bretagne Occidentale (Brest, France)
     year: 2013
 
