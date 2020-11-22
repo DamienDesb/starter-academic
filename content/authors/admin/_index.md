@@ -34,7 +34,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+# - icon: twitter
 # icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Damien Desbruyères currently works at the Laboratory of Physical and Spatial Oceanogrpahy, within the Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER). Damien does research in dynamical and descriptive physical Oceanography, with an observational focus on the mechanisms shaping the large-scale circulation and heat content of the North Atlantic Ocean.
+Damien Desbruyères currently works at the Laboratory of Physical and Spatial Oceanography, within the Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER). Damien does research in dynamical and descriptive physical Oceanography, with an observational focus on the mechanisms shaping the large-scale circulation and heat content of the North Atlantic Ocean.
