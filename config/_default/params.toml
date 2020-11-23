@@ -93,7 +93,8 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "IFREMER - Institut Français de Recherche pour l'Exploitation de la Mer - Centre Bretagne", city = "Plouzané", region = "", postcode = "29280", country = "France", country_code = "FR"}
+address = {street = "Laboratoire d'Océanographie Physique et Spatiale
+IFREMER - Institut Français de Recherche pour l'Exploitation de la Mer - Centre Bretagne", city = "Plouzané", region = "", postcode = "29280", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
