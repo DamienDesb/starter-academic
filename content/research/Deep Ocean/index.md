@@ -1,6 +1,6 @@
 
 +++
-title = "Deep Ocean Heat Storgae"
+title = "Deep Ocean Heat Storage"
 date = "2020-08-02"
 draft = false
 
