@@ -12,7 +12,9 @@ role: Researcher in Physical Oceanography
 organizations:
 - name: IFREMER
   url: "https://wwz.ifremer.fr/"
-
+- name: LOPS
+  url: "https://www.umr-lops.fr/en"
+  
 # Short bio (displayed in user profile at end of posts)
 
 interests:
