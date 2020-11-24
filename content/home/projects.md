@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Ongoing Projects"
-subtitle = ""
+subtitle = "(Build in Progress)"
 
 [content]
   # Page type to display. E.g. project.
