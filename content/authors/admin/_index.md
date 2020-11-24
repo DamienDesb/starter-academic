@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Damien Desbruyères currently works at the Laboratory of Physical and Spatial Oceanography, within the Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER). Damien does research in dynamical and descriptive physical Oceanography, with an observational focus on the mechanisms shaping the large-scale circulation and heat content of the North Atlantic Ocean.
+Damien Desbruyères currently works at the Laboratory of Physical and Spatial Oceanography, within the Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER). Damien does research in dynamical and descriptive physical Oceanography, with an observational focus on global ocean heat uptake, and on the mechanisms shaping the large-scale circulation and heat content of the North Atlantic Ocean.
