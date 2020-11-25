@@ -1,6 +1,6 @@
 ---
 title: "Surface predictor of overturning circulation and heat content change in the subpolar North Atlantic"
-date: 2019-01-01
+date: 2019-07-01
 publishDate: 2020-11-22T15:47:21.082311Z
 authors: ["Damien G. Desbruyères", "Herlé Mercier", "Guillaume Maze", "Nathalie Daniault"]
 publication_types: ["2"]

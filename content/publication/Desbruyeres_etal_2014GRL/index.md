@@ -1,6 +1,6 @@
 ---
 title: "Full‐depth temperature trends in the northeastern Atlantic through the early 21st century"
-date: 2014
+date: "2014-10-01T00:00:00Z"
 publishDate: 2020-11-22T15:47:21.082311Z
 authors: ["Damien G. Desbruyères", "E. L. McDonagh", "B. A. King", "F. K. Garry", "A. T. Blaker", "B. I. Moat", "H. Mercier"]
 publication_types: ["2"]

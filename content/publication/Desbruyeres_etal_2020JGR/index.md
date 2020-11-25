@@ -1,6 +1,6 @@
 ---
 title: "Importance of boundary processes for heat uptake in the Subpolar North Atlantic"
-date: 2020-01-01
+date: 2020-07-01
 publishDate: 2020-11-22T15:47:21.082311Z
 authors: ["Desbruyères Damien", "Sinha B", "McDonagh E. L", "Josey S. A", "Holliday N. P", "Smeed D. A", "New A. L", "Megann A", "Moat B. I"]
 publication_types: ["2"]

@@ -1,6 +1,6 @@
 ---
 title: "Global and Full-Depth Ocean Temperature Trends during the Early Twenty-First Century from Argo and Repeat Hydrography"
-date: 2017
+date: "2017-03-01T00:00:00Z"
 publishDate: 2020-11-22T15:47:21.082311Z
 authors: [" Damien Desbruyères", "Elaine L. McDonagh", "Brian A. King", "Virginie Thierry"]
 publication_types: ["2"]

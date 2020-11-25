@@ -1,6 +1,6 @@
 ---
 title: "On the mechanisms behind decadal heat content changes in the eastern subpolar gyre"
-date: 2015
+date: "2015-03-01T00:00:00Z"
 publishDate: 2020-11-22T15:47:21.082311Z
 authors: ["Damien G. Desbruyères","Herlé Mercier", "Virginie Thierry"]
 publication_types: ["2"]

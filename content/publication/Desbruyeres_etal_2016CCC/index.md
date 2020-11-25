@@ -1,6 +1,6 @@
 ---
 title: "Observational Advances in Estimates of Oceanic Heating"
-date: 2016
+date: "2016-05-01T00:00:00Z"
 publishDate: 2020-11-22T15:47:21.082311Z
 authors: ["Damien G. Desbruyères", "Sarah G. Purkey", "Elaine L. McDonagh", "Gregory C. Johnson", "Brian A. King"]
 publication_types: ["2"]
