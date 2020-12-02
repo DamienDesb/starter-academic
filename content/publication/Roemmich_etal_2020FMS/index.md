@@ -1,0 +1,11 @@
+---
+title: "On the Future of Argo: A Global, Full-Depth, Multi-Disciplinary Array."
+date: "2019-08-01T00:00:00Z"
+publication: "*Frontiers in Marine Science*"
+publishDate: 2020-11-22T15:47:21.082311Z
+authors: ["Roemmich Dean", "International Argo team"]
+publication_types: ["2"]
+abstract: "The Argo Program has been implemented and sustained for almost two decades, as a global array of about 4000 profiling floats. Argo provides continuous observations of ocean temperature and salinity versus pressure, from the sea surface to 2000 dbar. The successful installation of the Argo array and its innovative data management system arose opportunistically from the combination of great scientific need and technological innovation. Through the data system, Argo provides fundamental physical observations with broad societally-valuable applications, built on the cost-efficient and robust technologies of autonomous profiling floats. Following recent advances in platform and sensor technologies, even greater opportunity exists now than 20 years ago to (i) improve Argo’s global coverage and value beyond the original design, (ii) extend Argo to span the full ocean depth, (iii) add biogeochemical sensors for improved understanding of oceanic cycles of carbon, nutrients, and ecosystems, and (iv) consider experimental sensors that might be included in the future, for example to document the spatial and temporal patterns of ocean mixing. For Core Argo and each of these enhancements, the past, present, and future progression along a path from experimental deployments to regional pilot arrays to global implementation is described. The objective is to create a fully global, top-to-bottom, dynamically complete, and multidisciplinary Argo Program that will integrate seamlessly with satellite and with other in situ elements of the Global Ocean Observing System (Legler et al., 2015). The integrated system will deliver operational reanalysis and forecasting capability, and assessment of the state and variability of the climate system with respect to physical, biogeochemical, and ecosystems parameters. It will enable basic research of unprecedented breadth and magnitude, and a wealth of ocean-education and outreach opportunities."
+featured: false
+doi: "10.3389/fmars.2019.00439"
+---
