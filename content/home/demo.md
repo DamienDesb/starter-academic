@@ -41,7 +41,7 @@ title = "North Atlantic Ocean and Climate"
 
 [design.spacing]
  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["550px", "0px", "350px", "0px"]
+  padding = ["550px", "0px", "100px", "0px"]
 
 [advanced]
  # Custom CSS.
