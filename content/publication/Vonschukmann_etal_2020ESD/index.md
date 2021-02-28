@@ -1,6 +1,6 @@
 ---
 title: "Heat stored in the Earth system: where does the energy go?"
-date: 2019-07-01
+date: 2020-09-01
 publishDate: 2020-09-22T15:47:21.082311Z
 authors: ["Von Schuckmann Karina", "Cheng Lijing", "Palmer Matthew D", Hansen James", "Tassone Caterina", "Aich Valentin", "Adusumilli Susheel", "Beltrami Hugo", "Boyer Tim", "Cuesta-Valero Francisco José", "Desbruyères Damien", "Domingues Catia", "García-García Almudena", "Gentine Pierre", "Gilson John", "Gorfer Maximilian", "Haimberger Leopold", "Ishii Masayoshi", "Johnson Gregory C", "Killick Rachel", "King Brian A", "Kirchengast Gottfried", "Kolodziejczyk Nicolas", "Lyman John", "Marzeion Ben", "Mayer Michael", "Monier Maeva", "Monselesan Didier Paolo", "Purkey Sarah", "Roemmich Dean", "Schweiger Axel", "Seneviratne Sonia I", "Shepherd Andrew", "Slater Donald A", "Steiner Andrea K", "Straneo Fiammetta", "Timmermans Mary-Louise", "Wijffels Susan E"]
 publication_types: ["2"]
