@@ -23,7 +23,7 @@ title = "North Atlantic Ocean and Climate"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "navy"
 
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -41,7 +41,7 @@ title = "North Atlantic Ocean and Climate"
 
 [design.spacing]
  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["550px", "0px", "70px", "0px"]
+  padding = ["200px", "0px", "70px", "0px"]
 
 [advanced]
  # Custom CSS.
