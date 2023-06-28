@@ -7,7 +7,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
-#height="750px"
+# height="750px"
 
 # title = "North Atlantic Ocean and Climate"
 # subtitle = "(Build in Progress)"
@@ -41,7 +41,7 @@ weight = 10  # Order that this section will appear.
 
 [design.spacing]
  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0px", "70px", "0px"]
+ # padding = ["100px", "0px", "70px", "0px"]
 
 [advanced]
  # Custom CSS.
