@@ -1,6 +1,6 @@
 
 +++
-title = "VERTIGO"
+title = "EPOC"
 date = "2020-08-02"
 draft = false
 
@@ -11,10 +11,10 @@ authors = ["admin"]
 tags = []
 
 # Project summary to display on homepage.
-summary = "Tba"
+# summary = "Tba"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.epoc-eu.org/home"
 
 # Does the project detail page use math formatting?
 math = false
