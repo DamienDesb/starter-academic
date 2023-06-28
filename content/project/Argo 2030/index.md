@@ -1,6 +1,6 @@
 
 +++
-title = "CROSSROAD"
+title = "VERTIGO"
 date = "2020-08-02"
 draft = false
 
@@ -14,7 +14,7 @@ tags = []
 summary = "Tba"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://crossroad.ifremer.fr/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
