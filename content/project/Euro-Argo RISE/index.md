@@ -11,10 +11,10 @@ authors = ["admin"]
 tags = []
 
 # Project summary to display on homepage.
-summary = "tba"
+# summary = "tba"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.euro-argo.eu/EU-Projects/Euro-Argo-RISE-2019-2022"
 
 # Does the project detail page use math formatting?
 math = false

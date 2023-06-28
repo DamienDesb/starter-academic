@@ -11,7 +11,7 @@ authors = ["admin"]
 tags = []
 
 # Project summary to display on homepage.
-summary = "Tba"
+# summary = "Tba"
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://crossroad.ifremer.fr/"

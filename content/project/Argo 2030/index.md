@@ -1,7 +1,7 @@
 
 +++
-title = "VERTIGO"
-date = "2020-08-02"
+title = "Argo-2030"
+#date = "2020-08-02"
 draft = false
 
 authors = ["admin"]
@@ -11,10 +11,10 @@ authors = ["admin"]
 tags = []
 
 # Project summary to display on homepage.
-summary = "Tba"
+# summary = "Tba"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.argo-france.fr/en/Projects/Argo-2030"
 
 # Does the project detail page use math formatting?
 math = false
