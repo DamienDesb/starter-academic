@@ -4,7 +4,7 @@ title = "Euro-Argo RISE"
 date = "2020-08-02"
 draft = false
 
-authors = ["admin"]
+# authors = ["admin"]
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
