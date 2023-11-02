@@ -14,7 +14,7 @@ tags = []
 # summary = "Tba"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.epoc-eu.org/home"
+external_link = "https://epoc.blogs.uni-hamburg.de/"
 
 # Does the project detail page use math formatting?
 math = false
